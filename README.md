@@ -1,4 +1,3 @@
-# Spencer's Portfolio
 
 
 # [Project 1: Online Shopping Analysis: Overview](https://rpubs.com/Spencer_Guo/847118)
