@@ -11,6 +11,6 @@
 * Wrangled the data and prepared the data for machine learning model using feather engineering.
 * Analyzed and used oversampling to balance the data.
 * Built a Gradient Boosting model with a F1 Score of 0.9867 to predict patients with stroke.
-* 1[](/images/Stroke%20Insights.png)
+* ![](/images/Stroke%20Insights.png)
 
 
