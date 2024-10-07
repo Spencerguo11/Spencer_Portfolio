@@ -14,3 +14,8 @@
 ![](/images/Stroke_Insights.png)
 
 
+# [Project 3: Geographic Analysis: Overview](https://rpubs.com/Spencer_Guo/1229079)
+* Conducted a spatial analysis to assess heat-related mortality risks across 1487 census block groups in Houston.
+* Applied Moran's I test and spatial generalized linear models (GLMs) to identify the most vulnerable populations based on factors like age, poverty, and access to air conditioning.
+* Found that areas outside central Houston showed higher unexplained risks, suggesting the need for targeted interventions.
+![](/images/Geograph.png)
